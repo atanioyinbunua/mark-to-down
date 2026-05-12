@@ -1,2 +1,3 @@
 # mark-to-down
-Opensource Markdown editor
+
+Simple markdown editor package 

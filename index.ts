@@ -1,1 +1,4 @@
-console.log("Hello via Bun!");
+import Editor from "./src/ts/editor";
+
+export default Editor;
+

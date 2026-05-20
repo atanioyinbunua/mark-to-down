@@ -1,0 +1,18 @@
+.mtd-hidden {
+  display: none;
+}
+
+.mtd-editor {
+  width: 100%;
+}
+
+.mtd-toolbar {
+  display: flex;
+  gap: 10px;
+}
+
+.mtd-textarea {
+  width: 100%;
+  min-height: 400px;
+  resize: vertical;
+}
